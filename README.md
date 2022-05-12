@@ -1,5 +1,7 @@
 # eurrosettacon2022
 Docking Tutorial PyRosetta
+
+## To run the tutorial in Google colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/engelberger/eurrosettacon2022/blob/main/ligand_docking_pyrosetta.ipynb)
 
 ## To run the notebook locally
