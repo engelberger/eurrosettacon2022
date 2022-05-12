@@ -9,7 +9,7 @@ Docking Tutorial PyRosetta
 * Create a conda enviroment for pyrosetta
 
 ```
- conda create -n pyrosetta4 jupyter
+conda create -n pyrosetta pyrosetta jupyter pandas matplotlib py3Dmol seaborn
 ```
 
 * Follow the installation instructions of pyrosetta (the conda method is suggested)
